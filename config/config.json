@@ -1,0 +1,10 @@
+﻿{
+  "readme":"cycle为轮询周期(秒),urls数组长度最好为偶数,链接地址参数不可不传",
+  "cycle":50,
+  "urls":[
+    "http://cqzhsq.cn/zb-dp/se-dp/#/?bg=false",
+    "http://cqzhsq.cn/zb-dp/data-collect-dp/#/?bg=false",
+    "http://cqzhsq.cn/zb-dp/data-run-dp/#/?bg=false",
+    "http://cqzhsq.cn/zb-dp/data-dept-share/#/?bg=false"
+  ]
+}
